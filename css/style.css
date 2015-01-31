@@ -1,0 +1,18 @@
+body{
+	background: #311B92;
+}
+
+#box{
+	background: #FAFAFA;
+	z-index: 5;
+	margin: auto;
+	position: absolute;
+	border: 5px solid #9575CD;
+}
+
+#myCanvas{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
